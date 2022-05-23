@@ -31,7 +31,7 @@ Hi! It is I, Dismus Ng'eno, a Seasoned Full-Stack Software Developer with a love
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/dismuskiplimo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dismuskiplimo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dismuskiplimo&layout=compact&langs_count=8&theme=algolia"/>
