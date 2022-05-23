@@ -10,7 +10,7 @@
 </div>
 
 <div width = "50%">
-  <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
+  <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="100%" />
 </div>
 
 #
