@@ -4,10 +4,13 @@
   <img src = "./Vanilla-2.5s-251px.svg" height = "100"/>
 </p>
 <hr>
-  
-[![Github](https://img.shields.io/github/followers/dismuskiplimo?label=Follow&style=social)](https://github.com/dismuskiplimo)
 
-<div size='20px'> Hi! My name is Dismus. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> 
+  Hi! My name is Dismus. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<div>
+  <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
 </div>
 
 ## 🛠 &nbsp;Tech Stack
