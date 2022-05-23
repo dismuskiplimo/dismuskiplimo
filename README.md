@@ -29,7 +29,7 @@ Hi! It is I, Dismus Ng'eno, a Seasoned Full-Stack Software Developer with a love
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
+### <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="25px">&nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/dismuskiplimo">
