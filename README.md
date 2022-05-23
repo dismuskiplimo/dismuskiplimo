@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/dismuskiplimo/count.svg"><br/><br/>
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src = "./Vanilla-2.5s-251px.svg" height = "100"/>
 </p>
 <hr>
   
