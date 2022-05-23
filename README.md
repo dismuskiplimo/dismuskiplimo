@@ -6,7 +6,7 @@
 <hr>
 
 <div width = "50%"> 
-  Hi! It is I, Dismus Ng'eno. Thank You for taking the time to view my GitHub Profile :smile: 
+  Hi! It is I, Dismus Ng'eno, a Seasoned Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `LESS`, `Vanilla JavaScript`, `React`, `Redux`, `NodeJs`, `Laravel`, `MongoDB`, `Express Js`, among others. A Software enthusiast with top-notch abilities in UX/UI design, web development, deployment and testing. I seek to bring knowledge and abilities to any new position with a growing team. Open to new opportunities. :smile: 
 </div>
 
 <hr>
