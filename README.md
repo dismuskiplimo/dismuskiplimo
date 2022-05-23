@@ -5,13 +5,15 @@
 </p>
 <hr>
 
-<div size='20px'> 
-  Hi! My name is Dismus. Thank You for taking the time to view my GitHub Profile :smile: 
+<div width = "50%"> 
+  Hi! It is I, Dismus Ng'eno. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<div>
+<div width = "50%">
   <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
 </div>
+
+#
 
 ## 🛠 &nbsp;Tech Stack
 
