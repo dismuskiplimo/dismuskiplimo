@@ -1,5 +1,6 @@
 # Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
   
+ <img src="https://profile-counter.glitch.me/dismuskiplimo/count.svg"> 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=dismuskiplimo)
 [![Github](https://img.shields.io/github/followers/dismuskiplimo?label=Follow&style=social)](https://github.com/dismuskiplimo)
 
