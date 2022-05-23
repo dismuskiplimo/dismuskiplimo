@@ -38,9 +38,7 @@ Hi! It is I, Dismus Ng'eno, a Seasoned Full-Stack Software Developer with a love
 </a>
 </p>
 
-<p align = 'center'>
 [![trophy](https://github-profile-trophy.vercel.app/?username=dismuskiplimo&theme=matrix&margin-w=15)](https://github.com/dismuskiplimo/github-profile-trophy)
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
