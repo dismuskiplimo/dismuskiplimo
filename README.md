@@ -5,13 +5,9 @@
 </p>
 <hr>
 
-<div width = "50%"> 
-  Hi! It is I, Dismus Ng'eno, a Seasoned Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `LESS`, `Vanilla JavaScript`, `React`, `Redux`, `NodeJs`, `Laravel`, `MongoDB`, `Express Js`, among others. A Software enthusiast with top-notch abilities in UX/UI design, web development, deployment and testing. I seek to bring knowledge and abilities to any new position with a growing team. Open to new opportunities. :smile: 
-</div>
+Hi! It is I, Dismus Ng'eno, a Seasoned Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `LESS`, `Vanilla JavaScript`, `React`, `Redux`, `NodeJs`, `Laravel`, `MongoDB`, `Express Js`, among others. A Software enthusiast with top-notch abilities in UX/UI design, web development, deployment and testing. I seek to bring knowledge and abilities to any new position with a growing team. Open to new opportunities. :smile: 
 
 <hr>
-
-#
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 25px> &nbsp;Tech Stack
 
@@ -40,6 +36,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dismuskiplimo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dismuskiplimo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<p align = 'center'>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dismuskiplimo&theme=matrix&margin-w=15)](https://github.com/dismuskiplimo/github-profile-trophy)
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
