@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/dismuskiplimo/count.svg"><br/><br/>
-  <img src="./Screenshot 2022-05-24 at 01.10.04.png" alt="code" width="60%" /><br/><br/>
+  <img src="./code.png" alt="code" width="60%" /><br/><br/>
   <img src = "./Vanilla-2.5s-251px.svg" height = "100"/>
 </p>
 <hr>
