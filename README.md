@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/dismuskiplimo/count.svg"><br/><br/>
+  VISITS<br/><br/>
   <img src="./code.png" alt="code" width="60%" /><br/><br/>
   <img src = "./name-animation.svg" height = "100"/>
 </p>
