@@ -1,4 +1,4 @@
-<p align="center">
+<p align = "center">
   <img src="https://profile-counter.glitch.me/dismuskiplimo/count.svg"><br/>
   VISITS<br/><br/>
   <img src="./code.png" alt="code" width="60%" /><br/><br/>
